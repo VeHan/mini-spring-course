@@ -1,5 +1,4 @@
-# mini-spring-course
-## Table of Contents
+# 手把手带你写一个MiniSpring
 
 - [01｜原始IoC：如何通过BeanFactory实现原始版本的IoC容器？](01｜原始IoC：如何通过BeanFactory实现原始版本的IoC容器？.md)
 
